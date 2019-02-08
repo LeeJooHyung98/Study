@@ -11,4 +11,4 @@
 6. git commit -m "message"
    - 최종 커밋
 7. git push origin +master
-   - 온라인 레파지토리 
+   - 온라인 레파지토리 반영
